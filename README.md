@@ -127,38 +127,8 @@ Each model is evaluated using:
 - Classification Report
 - Confusion Matrix
 - ROC Curve
-
 ---
 
-# 📊 Model Comparison
-
-| Model | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
-|--------|---------:|----------:|-------:|---------:|--------:|
-| Logistic Regression | - | - | - | - | - |
-| Decision Tree | - | - | - | - | - |
-| Random Forest | - | - | - | - | - |
-| KNN | - | - | - | - | - |
-| SVM | - | - | - | - | - |
-| XGBoost | - | - | - | - | - |
-
-> Replace the table values after completing the evaluation section.
-
----
-
-# 📁 Repository Structure
-
-```
-Churn-Customers-Prediction-using-Machine-Learning-Models/
-│
-├── Churn_Prediction.ipynb
-├── README.md
-├── requirements.txt
-├── dataset/
-│   └── customer_churn.csv
-└── images/
-```
-
----
 
 # ▶️ Installation
 
@@ -217,7 +187,7 @@ This project demonstrates how machine learning can help organizations:
 
 Computer Science & Engineering Student
 
-Aspiring Data Scientist | Machine Learning Enthusiast | AI Researcher
+Aspiring Data Scientist | Machine Learning Enthusiast | NLP Researcher
 
 **GitHub**
 
